@@ -39,9 +39,9 @@ I am an AI Engineer dedicated to building robust, scalable, and "production-read
 ---
 
 ### 📁 Featured Open-Source Projects
-* **[Smart-Invoice-Insight]**: A local-first RAG system for high-accuracy financial document extraction.
-* **[Agent-Logic-Sandbox]**: Exploring different orchestration patterns for multi-agent AI systems.
-* **[ML-Optimization-Library]**: A collection of scripts for feature engineering and pricing optimization prototypes.
+* **Smart-Invoice-Insight**: A local-first RAG system for high-accuracy financial document extraction.
+* **Agent-Logic-Sandbox**: Exploring different orchestration patterns for multi-agent AI systems.
+* **ML-Optimization-Library**: A collection of scripts for feature engineering and pricing optimization prototypes.
 
 ---
 
