@@ -1,7 +1,6 @@
 # Hi there, I'm Shreya! 👋 
 
 ### AI Engineer | Specializing in Agentic RAG, Document Intelligence, Process Automation, and Analytics.
-**Frankfurt am Main, Germany** 🇩🇪
 
 I am an AI Engineer dedicated to building robust, scalable, and "production-ready" AI systems. My work focuses on the intersection of Large Language Models (LLMs) and structured enterprise data, with a deep interest in MLOps and automated evaluation frameworks.
 
