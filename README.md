@@ -51,11 +51,6 @@ I am an AI Engineer dedicated to building robust, scalable, and "production-read
 * **Current Pursuit:** Deepening my expertise in **LangGraph** and **GDPR-compliant AI** deployment for the European market.
 
 ---
-### 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamuthaiah&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyamuthaiah&layout=compact&theme=transparent)
-
----
 
 
 ### 📫 Get in Touch
